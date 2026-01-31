@@ -298,4 +298,10 @@ For questions or suggestions about this implementation:
 
 ---
 
-**Happy Shadow Removing! 🌟**
+##Before
+![Before ](https://github.com/user-attachments/assets/6b34d497-c761-4120-bf91-73668596f21b)
+
+##After
+![after](https://github.com/user-attachments/assets/2474fa16-80ae-47b1-9bba-cc8054e12d3d)
+
+
