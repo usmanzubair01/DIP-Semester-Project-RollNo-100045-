@@ -258,28 +258,9 @@ correction_factor = min(correction_factor, 2.0)  # Change 2.5 to 2.0
 
 ---
 
-## 👥 Contributing
-
-Feel free to:
-- Report issues
-- Suggest improvements
-- Add new features
-- Share test results
-
----
-
 ## 📄 License
 
 This project is for educational purposes as part of Digital Image Processing coursework.
-
----
-
-## 📧 Contact
-
-For questions or suggestions about this implementation:
-- Create an issue in the repository
-- Contact your course instructor
-- Refer to OpenCV documentation
 
 ---
 
