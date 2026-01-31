@@ -1,5 +1,10 @@
 # Shadow Detection and Removal System
 ## Digital Image Processing Project
+Name: Muhammad Usman Zubair
+Roll no: 100045
+Course Name: Digital Image Processing
+
+
 
 ---
 
