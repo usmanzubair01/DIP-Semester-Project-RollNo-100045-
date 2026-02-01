@@ -1,10 +1,10 @@
 # Shadow Detection and Removal System
 ## Digital Image Processing Project
-Name: Muhammad Usman Zubair
-Roll no: 100045
-Course Name: Digital Image Processing
 
-
+**Name:** Muhammad Usman  
+**Roll No:** 100045  
+**Session:** GCUF (2023–2027)  
+**Course:** Data Image Processing 
 
 ---
 
